@@ -39,8 +39,8 @@
 ### Brain Heat Map Data
 - Unfortunately, Emotiv BrainViz software is not compatible with the EPOC flex device. Therefore, for brain heat mapping 3rd-party software is needed. Fortunately, there were some useful Python scripts provided on github to address this problem. The GitHub link is provided below. 
 
-Brain Heat Mapping with Python:
-https://github.com/ijmax/EEG-processing-python
+  Brain Heat Mapping with Python:
+  https://github.com/ijmax/EEG-processing-python
 
 
 ## Pursuit-Evasion Game
