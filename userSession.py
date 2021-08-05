@@ -50,8 +50,8 @@ class userSession():
     # records eeg signals during session
     def beginRecord(self):
         # record parameters
-        recordName = "Pursuit Evasion Trial"
-        recordDescription = "Pursuit Evasion Trials for Undergraduate Summer Research Project"
+        recordName = "Pursuit Evasion Trials"
+        recordDescription = "Pursuit Evasion 25 Trials for Undergraduate Summer Research Project"
         # start record --> stop record --> disconnect headset --> export record
         self.userSession.create_record(recordName, recordDescription)
 
