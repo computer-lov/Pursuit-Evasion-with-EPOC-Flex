@@ -45,6 +45,8 @@
 
   Brain Heat Mapping with Python:
   https://github.com/ijmax/EEG-processing-python
+  
+- Note: The respository above does not allow you to save .gif files so I included convertPNGToGIF.py to remedy this issue.
 
 
 ## Pursuit-Evasion Game
