@@ -27,6 +27,22 @@
 
 ## Collecting Data
 
+### Raw EEG Signals
+- Emotiv allows users to record and export raw EEG signals in both .csv and .edf formats. 
+
+### Feature Extracted Signals
+- Emotiv also allows some processed signals (through fast-fourier transform and by other means) to be exported in the aforementioned forms. 
+
+### Performance Metrics
+- Emotiv also provided performance metrics which provide insight into the user’s excitement, engagement, focus, stress, etc. These performance metrics can be exported and used for further analysis with the academic and business licenses. 
+
+### Brain Heat Map Data
+- Unfortunately, Emotiv BrainViz software is not compatible with the EPOC flex device. Therefore, for brain heat mapping 3rd-party software is needed. Fortunately, there were some useful Python scripts provided on github to address this problem. The GitHub link is provided below. 
+
+Brain Heat Mapping with Python:
+https://github.com/ijmax/EEG-processing-python
+
+
 ## Pursuit-Evasion Game
 - The purpose of the pursuit-evasion game was to have a human pursue an evading robot using the mental commands provided by EmotivBCI and transmitted through the EPOC Flex headset. For the evader, there were three simple evading algorithms implemented - exaggerating, ambiguous, and switching. This game was implemented in Python using the Pygame library and interacted with the EPOC Flex headset through Emotiv’s Cortex API. The source code for this game can be made available on Github. Please reach out to me at the email address listed below for the source code to be made available.
 - Email: apm532@nyu.edu
