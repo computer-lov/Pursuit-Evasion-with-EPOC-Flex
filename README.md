@@ -24,6 +24,10 @@
 
 ## Cortex API
 - The Cortex API is a useful tool provided by Emotiv that allows users to develop 3rd-party applications that interact with their headsets and software. For instance, in order for a pursuer-evader game to be played with the EPOC flex device a version of this game was created in Python and the device was continuously streamed for mental commands while the game was being played. 
+ 
+- The necessary python files from the Cortex API (cortex.py and live_advance.py) repository are provided above. However, they provide additional files in this repository below.
+  Cortex API: 
+  https://github.com/Emotiv/cortex-v2-example
 
 ## Collecting Data
 
