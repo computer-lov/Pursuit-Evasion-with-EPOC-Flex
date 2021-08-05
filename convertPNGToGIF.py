@@ -1,5 +1,7 @@
 from PIL import Image
- 
+
+# program to convert multiple .png files to a single .gif file
+
 if __name__ == "__main__":
     for num in range(1,26):
         # Create the frames
