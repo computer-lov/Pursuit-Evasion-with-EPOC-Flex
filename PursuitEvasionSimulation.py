@@ -62,7 +62,7 @@ class pursuitEvasionSimulation():
                 if event.type == pygame.QUIT:
                     self.run = False
             self.updateDisplay()
-            self.pursuerManualController()
+            self.pursuerEEGController()
             self.chooseEvadeStrat(evadeStrat)
             if self.verticalSpeed != 0:
                 self.verticalSpeed -= 1 
