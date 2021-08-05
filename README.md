@@ -3,8 +3,10 @@
 ## Requirements
 - Python >= 3.7
 - EPOC Flex Headset
+- Emotiv License
+- EmotivBCI & Emotiv Pro Software
 - Saline Gel
-- Install websocket client via  `pip install websocket-client`
+- Window / Mac OS
 
 ## Connecting the EPOC Flex
 - Before turning on the device, hydrate the sensor pads to be used  with saline. The saline typically used in the lab is Biotrue but most saline solutions will work and can be bought over the counter at any local pharmacy. 
