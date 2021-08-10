@@ -1,8 +1,7 @@
 # Pursuit Evasion with EPOC Flex
 
 ## Pursuit-Evasion Game
-- The purpose of the pursuit-evasion game was to have a human pursue an evading robot using the mental commands provided by EmotivBCI and transmitted through the EPOC Flex headset. For the evader, there were three simple evading algorithms implemented - exaggerating, ambiguous, and switching. This game was implemented in Python using the Pygame library and interacted with the EPOC Flex headset through Emotiv’s Cortex API. The source code for this game can be made available on Github. Please reach out to me at the email address listed below for the source code to be made available.
-- Email: apm532@nyu.edu
+- The purpose of the pursuit-evasion game was to have a human pursue an evading robot using the mental commands provided by EmotivBCI and transmitted through the EPOC Flex headset. For the evader, there were three simple evading algorithms implemented - exaggerating, ambiguous, and switching. This game was implemented in Python using the Pygame library and interacted with the EPOC Flex headset through Emotiv’s Cortex API.
 
 ## Requirements
 - Python >= 3.7
